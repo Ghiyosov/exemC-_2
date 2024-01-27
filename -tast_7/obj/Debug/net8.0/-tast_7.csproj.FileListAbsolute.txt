@@ -1,0 +1,14 @@
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\bin\Debug\net8.0\-tast_7.exe
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\bin\Debug\net8.0\-tast_7.deps.json
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\bin\Debug\net8.0\-tast_7.runtimeconfig.json
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\bin\Debug\net8.0\-tast_7.dll
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\bin\Debug\net8.0\-tast_7.pdb
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\-tast_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\-tast_7.AssemblyInfoInputs.cache
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\-tast_7.AssemblyInfo.cs
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\-tast_7.csproj.CoreCompileInputs.cache
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\-tast_7.dll
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\refint\-tast_7.dll
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\-tast_7.pdb
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\-tast_7.genruntimeconfig.cache
+C:\Users\ISMOIL\Desktop\C#\exem2\-tast_7\obj\Debug\net8.0\ref\-tast_7.dll
